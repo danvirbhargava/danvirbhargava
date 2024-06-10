@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Danvir Bhargava I'm currently studying a Bachelor of Cyber Security at Macquarie University. I'm currently working on building various projects including my personal portfolio and a match predictor model for the 2024 Euros football tournament using website scraping and machine learning tools on python. I'm currently looking for internship oppurtunities as a software developer, software engineer or security analyst.
 <!--
 **danvirbhargava/danvirbhargava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
